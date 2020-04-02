@@ -10,3 +10,6 @@ def line(katz_deli)
   puts string 
   end 
 end
+
+def take_a_number(katz_deli, "")
+  
