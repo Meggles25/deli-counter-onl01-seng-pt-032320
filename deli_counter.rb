@@ -13,6 +13,6 @@ end
 
 def take_a_number(line, person)
   line.push(person)
-  puts "
+  puts 
   
   
